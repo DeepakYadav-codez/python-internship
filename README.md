@@ -27,3 +27,15 @@ python-internship/
 🧑‍💻 Created by:
 Deepak Yadav
 Intern @ Python Developer Program
+
+
+---
+
+## 📚 Week 2 Project Summary (Day 10)
+
+This project is part of my Python Developer Internship (Week 2).  
+I created a Flask web application using HTML templates, CSS, and user form input.  
+I used Flask routing and Jinja2 templating to build a dynamic web app.  
+The project taught me how to accept form submissions, handle routes, and render content dynamically.  
+I also practiced version control using Git and GitHub.  
+This week helped me connect frontend and backend logic in a real-world scenario.
